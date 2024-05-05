@@ -1,0 +1,17 @@
+AICS
+Assignment 1: Build a spam filter using Python and the Naive Bayes algorithm.
+Assignment 2: Classify DDoS attacks with Artificial Intelligence.
+Assignment 3: Split sample data into training and test sets. (Use suitable data set).
+
+DMW
+
+Assignment No 1: Build Data Warehouse and Explore WEKA
+Assignment No 2: Perform data preprocessing tasks and Demonstrate performing association rule 
+mining on data sets
+Assignment No 3: Demonstration of classification rule process on WEKA data-set using Naive Bayes 
+algorithm.
+Assignment No 4: Implementation of OLAP operations
+Assignment No 5: Demonstrate performing Regression on data sets
+Assignment No 6: Demonstration of clustering rule process on data-set iris.arff using simple k-means
+Assignment No 7: Demonstration of any ETL tool
+Assignment No 8: Write a program of Apriori algorithm using any programming language.
